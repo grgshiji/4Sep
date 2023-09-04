@@ -1,0 +1,36 @@
+{
+  "name": "4Sep",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/4Sep.git",
+    "ssh": "git@github.com:grgshiji/4Sep.git",
+    "branch": "block_4Sep"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "wrzO2dK3nI3vwQKYoVIA9",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
