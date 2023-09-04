@@ -2,8 +2,8 @@
   "name": "4Sep",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/4Sep.git",
+    "ssh": "git@github.com:grgshiji/4Sep.git",
     "branch": "block_4Sep"
   },
   "dependencies": {
